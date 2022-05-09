@@ -1,0 +1,26 @@
+.space {
+ margin-top: 30px;
+ margin-bottom: 30px;
+
+}
+
+.space2 {
+margin-top: 30px;
+margin-bottom: 120px;
+}
+
+
+body {
+background-color:rosybrown;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  left:0;
+  width:100%;
+  }
+
+  body{
+    touch-action: manipulation;
+}
